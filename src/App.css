@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+  background-color:black
+}
+
+.filter {
+  width: 600px ;
+  display: flex;
+ 
+}
+
+.movieList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  column-gap:5%
+}
+
+.fa-star {
+  color:gold
+}
+
+
+
